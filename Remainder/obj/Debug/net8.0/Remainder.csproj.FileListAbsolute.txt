@@ -1,0 +1,14 @@
+C:\Learnings\dotNet\Remainder\bin\Debug\net8.0\Remainder.exe
+C:\Learnings\dotNet\Remainder\bin\Debug\net8.0\Remainder.deps.json
+C:\Learnings\dotNet\Remainder\bin\Debug\net8.0\Remainder.runtimeconfig.json
+C:\Learnings\dotNet\Remainder\bin\Debug\net8.0\Remainder.dll
+C:\Learnings\dotNet\Remainder\bin\Debug\net8.0\Remainder.pdb
+C:\Learnings\dotNet\Remainder\obj\Debug\net8.0\Remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\dotNet\Remainder\obj\Debug\net8.0\Remainder.AssemblyInfoInputs.cache
+C:\Learnings\dotNet\Remainder\obj\Debug\net8.0\Remainder.AssemblyInfo.cs
+C:\Learnings\dotNet\Remainder\obj\Debug\net8.0\Remainder.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\Remainder\obj\Debug\net8.0\Remainder.dll
+C:\Learnings\dotNet\Remainder\obj\Debug\net8.0\refint\Remainder.dll
+C:\Learnings\dotNet\Remainder\obj\Debug\net8.0\Remainder.pdb
+C:\Learnings\dotNet\Remainder\obj\Debug\net8.0\Remainder.genruntimeconfig.cache
+C:\Learnings\dotNet\Remainder\obj\Debug\net8.0\ref\Remainder.dll

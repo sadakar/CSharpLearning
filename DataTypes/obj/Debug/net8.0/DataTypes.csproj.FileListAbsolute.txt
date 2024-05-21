@@ -1,0 +1,14 @@
+C:\Learnings\DataTypes\bin\Debug\net8.0\DataTypes.exe
+C:\Learnings\DataTypes\bin\Debug\net8.0\DataTypes.deps.json
+C:\Learnings\DataTypes\bin\Debug\net8.0\DataTypes.runtimeconfig.json
+C:\Learnings\DataTypes\bin\Debug\net8.0\DataTypes.dll
+C:\Learnings\DataTypes\bin\Debug\net8.0\DataTypes.pdb
+C:\Learnings\DataTypes\obj\Debug\net8.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\DataTypes\obj\Debug\net8.0\DataTypes.AssemblyInfoInputs.cache
+C:\Learnings\DataTypes\obj\Debug\net8.0\DataTypes.AssemblyInfo.cs
+C:\Learnings\DataTypes\obj\Debug\net8.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Learnings\DataTypes\obj\Debug\net8.0\DataTypes.dll
+C:\Learnings\DataTypes\obj\Debug\net8.0\refint\DataTypes.dll
+C:\Learnings\DataTypes\obj\Debug\net8.0\DataTypes.pdb
+C:\Learnings\DataTypes\obj\Debug\net8.0\DataTypes.genruntimeconfig.cache
+C:\Learnings\DataTypes\obj\Debug\net8.0\ref\DataTypes.dll

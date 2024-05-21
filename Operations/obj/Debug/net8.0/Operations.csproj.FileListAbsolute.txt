@@ -1,0 +1,14 @@
+C:\Learnings\dotNet\Operations\bin\Debug\net8.0\Operations.exe
+C:\Learnings\dotNet\Operations\bin\Debug\net8.0\Operations.deps.json
+C:\Learnings\dotNet\Operations\bin\Debug\net8.0\Operations.runtimeconfig.json
+C:\Learnings\dotNet\Operations\bin\Debug\net8.0\Operations.dll
+C:\Learnings\dotNet\Operations\bin\Debug\net8.0\Operations.pdb
+C:\Learnings\dotNet\Operations\obj\Debug\net8.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\dotNet\Operations\obj\Debug\net8.0\Operations.AssemblyInfoInputs.cache
+C:\Learnings\dotNet\Operations\obj\Debug\net8.0\Operations.AssemblyInfo.cs
+C:\Learnings\dotNet\Operations\obj\Debug\net8.0\Operations.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\Operations\obj\Debug\net8.0\Operations.dll
+C:\Learnings\dotNet\Operations\obj\Debug\net8.0\refint\Operations.dll
+C:\Learnings\dotNet\Operations\obj\Debug\net8.0\Operations.pdb
+C:\Learnings\dotNet\Operations\obj\Debug\net8.0\Operations.genruntimeconfig.cache
+C:\Learnings\dotNet\Operations\obj\Debug\net8.0\ref\Operations.dll

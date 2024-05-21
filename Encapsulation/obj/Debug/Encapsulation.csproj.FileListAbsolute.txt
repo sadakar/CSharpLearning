@@ -1,0 +1,7 @@
+C:\Learnings\dotNet\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Learnings\dotNet\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Learnings\dotNet\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Learnings\dotNet\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Learnings\dotNet\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Learnings\dotNet\Encapsulation\obj\Debug\Encapsulation.pdb

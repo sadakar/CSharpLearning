@@ -1,0 +1,14 @@
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\bin\Debug\net8.0\ExcerciseEvenOrOdd.exe
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\bin\Debug\net8.0\ExcerciseEvenOrOdd.deps.json
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\bin\Debug\net8.0\ExcerciseEvenOrOdd.runtimeconfig.json
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\bin\Debug\net8.0\ExcerciseEvenOrOdd.dll
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\bin\Debug\net8.0\ExcerciseEvenOrOdd.pdb
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\obj\Debug\net8.0\ExcerciseEvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\obj\Debug\net8.0\ExcerciseEvenOrOdd.AssemblyInfoInputs.cache
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\obj\Debug\net8.0\ExcerciseEvenOrOdd.AssemblyInfo.cs
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\obj\Debug\net8.0\ExcerciseEvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\obj\Debug\net8.0\ExcerciseEvenOrOdd.dll
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\obj\Debug\net8.0\refint\ExcerciseEvenOrOdd.dll
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\obj\Debug\net8.0\ExcerciseEvenOrOdd.pdb
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\obj\Debug\net8.0\ExcerciseEvenOrOdd.genruntimeconfig.cache
+C:\Learnings\dotNet\ExcerciseEvenOrOdd\obj\Debug\net8.0\ref\ExcerciseEvenOrOdd.dll

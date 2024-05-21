@@ -1,0 +1,7 @@
+C:\Learnings\dotNet\Constructors\bin\Debug\Constructors.exe.config
+C:\Learnings\dotNet\Constructors\bin\Debug\Constructors.exe
+C:\Learnings\dotNet\Constructors\bin\Debug\Constructors.pdb
+C:\Learnings\dotNet\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Learnings\dotNet\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\Constructors\obj\Debug\Constructors.exe
+C:\Learnings\dotNet\Constructors\obj\Debug\Constructors.pdb

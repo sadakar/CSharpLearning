@@ -1,0 +1,14 @@
+C:\Learnings\dotNet\ConstKeyWord\obj\Debug\net8.0\ConstKeyWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\dotNet\ConstKeyWord\obj\Debug\net8.0\ConstKeyWord.AssemblyInfoInputs.cache
+C:\Learnings\dotNet\ConstKeyWord\obj\Debug\net8.0\ConstKeyWord.AssemblyInfo.cs
+C:\Learnings\dotNet\ConstKeyWord\obj\Debug\net8.0\ConstKeyWord.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\ConstKeyWord\bin\Debug\net8.0\ConstKeyWord.exe
+C:\Learnings\dotNet\ConstKeyWord\bin\Debug\net8.0\ConstKeyWord.deps.json
+C:\Learnings\dotNet\ConstKeyWord\bin\Debug\net8.0\ConstKeyWord.runtimeconfig.json
+C:\Learnings\dotNet\ConstKeyWord\bin\Debug\net8.0\ConstKeyWord.dll
+C:\Learnings\dotNet\ConstKeyWord\bin\Debug\net8.0\ConstKeyWord.pdb
+C:\Learnings\dotNet\ConstKeyWord\obj\Debug\net8.0\ConstKeyWord.dll
+C:\Learnings\dotNet\ConstKeyWord\obj\Debug\net8.0\refint\ConstKeyWord.dll
+C:\Learnings\dotNet\ConstKeyWord\obj\Debug\net8.0\ConstKeyWord.pdb
+C:\Learnings\dotNet\ConstKeyWord\obj\Debug\net8.0\ConstKeyWord.genruntimeconfig.cache
+C:\Learnings\dotNet\ConstKeyWord\obj\Debug\net8.0\ref\ConstKeyWord.dll

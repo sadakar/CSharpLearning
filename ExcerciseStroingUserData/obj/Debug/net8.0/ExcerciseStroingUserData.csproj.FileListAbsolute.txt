@@ -1,0 +1,14 @@
+C:\Learnings\dotNet\ExcerciseStroingUserData\bin\Debug\net8.0\ExcerciseStroingUserData.exe
+C:\Learnings\dotNet\ExcerciseStroingUserData\bin\Debug\net8.0\ExcerciseStroingUserData.deps.json
+C:\Learnings\dotNet\ExcerciseStroingUserData\bin\Debug\net8.0\ExcerciseStroingUserData.runtimeconfig.json
+C:\Learnings\dotNet\ExcerciseStroingUserData\bin\Debug\net8.0\ExcerciseStroingUserData.dll
+C:\Learnings\dotNet\ExcerciseStroingUserData\bin\Debug\net8.0\ExcerciseStroingUserData.pdb
+C:\Learnings\dotNet\ExcerciseStroingUserData\obj\Debug\net8.0\ExcerciseStroingUserData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\dotNet\ExcerciseStroingUserData\obj\Debug\net8.0\ExcerciseStroingUserData.AssemblyInfoInputs.cache
+C:\Learnings\dotNet\ExcerciseStroingUserData\obj\Debug\net8.0\ExcerciseStroingUserData.AssemblyInfo.cs
+C:\Learnings\dotNet\ExcerciseStroingUserData\obj\Debug\net8.0\ExcerciseStroingUserData.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\ExcerciseStroingUserData\obj\Debug\net8.0\ExcerciseStroingUserData.dll
+C:\Learnings\dotNet\ExcerciseStroingUserData\obj\Debug\net8.0\refint\ExcerciseStroingUserData.dll
+C:\Learnings\dotNet\ExcerciseStroingUserData\obj\Debug\net8.0\ExcerciseStroingUserData.pdb
+C:\Learnings\dotNet\ExcerciseStroingUserData\obj\Debug\net8.0\ExcerciseStroingUserData.genruntimeconfig.cache
+C:\Learnings\dotNet\ExcerciseStroingUserData\obj\Debug\net8.0\ref\ExcerciseStroingUserData.dll

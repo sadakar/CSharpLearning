@@ -1,0 +1,14 @@
+C:\Learnings\dotNet\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\dotNet\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.AssemblyInfoInputs.cache
+C:\Learnings\dotNet\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.AssemblyInfo.cs
+C:\Learnings\dotNet\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\DoWhileLoop\bin\Debug\net8.0\DoWhileLoop.exe
+C:\Learnings\dotNet\DoWhileLoop\bin\Debug\net8.0\DoWhileLoop.deps.json
+C:\Learnings\dotNet\DoWhileLoop\bin\Debug\net8.0\DoWhileLoop.runtimeconfig.json
+C:\Learnings\dotNet\DoWhileLoop\bin\Debug\net8.0\DoWhileLoop.dll
+C:\Learnings\dotNet\DoWhileLoop\bin\Debug\net8.0\DoWhileLoop.pdb
+C:\Learnings\dotNet\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.dll
+C:\Learnings\dotNet\DoWhileLoop\obj\Debug\net8.0\refint\DoWhileLoop.dll
+C:\Learnings\dotNet\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.pdb
+C:\Learnings\dotNet\DoWhileLoop\obj\Debug\net8.0\DoWhileLoop.genruntimeconfig.cache
+C:\Learnings\dotNet\DoWhileLoop\obj\Debug\net8.0\ref\DoWhileLoop.dll

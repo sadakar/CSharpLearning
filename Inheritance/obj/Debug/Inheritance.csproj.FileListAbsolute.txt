@@ -1,0 +1,7 @@
+C:\Learnings\dotNet\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Learnings\dotNet\Inheritance\bin\Debug\Inheritance.exe
+C:\Learnings\dotNet\Inheritance\bin\Debug\Inheritance.pdb
+C:\Learnings\dotNet\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Learnings\dotNet\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\Inheritance\obj\Debug\Inheritance.exe
+C:\Learnings\dotNet\Inheritance\obj\Debug\Inheritance.pdb

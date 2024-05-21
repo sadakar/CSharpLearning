@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learnings\\dotNet\\ClasseObject-UsingMultipleClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99B889B1-FD13-47D0-84EA-43FA3D2F84D7}|ClasseObject-UsingMultipleClasses.csproj|c:\\learnings\\dotnet\\classeobject-usingmultipleclasses\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B889B1-FD13-47D0-84EA-43FA3D2F84D7}|ClasseObject-UsingMultipleClasses.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B889B1-FD13-47D0-84EA-43FA3D2F84D7}|ClasseObject-UsingMultipleClasses.csproj|c:\\learnings\\dotnet\\classeobject-usingmultipleclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B889B1-FD13-47D0-84EA-43FA3D2F84D7}|ClasseObject-UsingMultipleClasses.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Learnings\\dotNet\\ClasseObject-UsingMultipleClasses\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Learnings\\dotNet\\ClasseObject-UsingMultipleClasses\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:22:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learnings\\dotNet\\ClasseObject-UsingMultipleClasses\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Learnings\\dotNet\\ClasseObject-UsingMultipleClasses\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T06:21:54.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

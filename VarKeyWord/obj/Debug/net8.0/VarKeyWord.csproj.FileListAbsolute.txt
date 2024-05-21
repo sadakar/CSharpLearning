@@ -1,0 +1,14 @@
+C:\Learnings\dotNet\VarKeyWord\bin\Debug\net8.0\VarKeyWord.exe
+C:\Learnings\dotNet\VarKeyWord\bin\Debug\net8.0\VarKeyWord.deps.json
+C:\Learnings\dotNet\VarKeyWord\bin\Debug\net8.0\VarKeyWord.runtimeconfig.json
+C:\Learnings\dotNet\VarKeyWord\bin\Debug\net8.0\VarKeyWord.dll
+C:\Learnings\dotNet\VarKeyWord\bin\Debug\net8.0\VarKeyWord.pdb
+C:\Learnings\dotNet\VarKeyWord\obj\Debug\net8.0\VarKeyWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\dotNet\VarKeyWord\obj\Debug\net8.0\VarKeyWord.AssemblyInfoInputs.cache
+C:\Learnings\dotNet\VarKeyWord\obj\Debug\net8.0\VarKeyWord.AssemblyInfo.cs
+C:\Learnings\dotNet\VarKeyWord\obj\Debug\net8.0\VarKeyWord.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\VarKeyWord\obj\Debug\net8.0\VarKeyWord.dll
+C:\Learnings\dotNet\VarKeyWord\obj\Debug\net8.0\refint\VarKeyWord.dll
+C:\Learnings\dotNet\VarKeyWord\obj\Debug\net8.0\VarKeyWord.pdb
+C:\Learnings\dotNet\VarKeyWord\obj\Debug\net8.0\VarKeyWord.genruntimeconfig.cache
+C:\Learnings\dotNet\VarKeyWord\obj\Debug\net8.0\ref\VarKeyWord.dll

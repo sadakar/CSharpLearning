@@ -1,0 +1,14 @@
+C:\Learnings\dotNet\SwitchStatement\bin\Debug\net8.0\SwitchStatement.exe
+C:\Learnings\dotNet\SwitchStatement\bin\Debug\net8.0\SwitchStatement.deps.json
+C:\Learnings\dotNet\SwitchStatement\bin\Debug\net8.0\SwitchStatement.runtimeconfig.json
+C:\Learnings\dotNet\SwitchStatement\bin\Debug\net8.0\SwitchStatement.dll
+C:\Learnings\dotNet\SwitchStatement\bin\Debug\net8.0\SwitchStatement.pdb
+C:\Learnings\dotNet\SwitchStatement\obj\Debug\net8.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\dotNet\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\Learnings\dotNet\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfo.cs
+C:\Learnings\dotNet\SwitchStatement\obj\Debug\net8.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\SwitchStatement\obj\Debug\net8.0\SwitchStatement.dll
+C:\Learnings\dotNet\SwitchStatement\obj\Debug\net8.0\refint\SwitchStatement.dll
+C:\Learnings\dotNet\SwitchStatement\obj\Debug\net8.0\SwitchStatement.pdb
+C:\Learnings\dotNet\SwitchStatement\obj\Debug\net8.0\SwitchStatement.genruntimeconfig.cache
+C:\Learnings\dotNet\SwitchStatement\obj\Debug\net8.0\ref\SwitchStatement.dll

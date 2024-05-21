@@ -1,0 +1,14 @@
+C:\Learnings\Bool\bin\Debug\net8.0\Bool.exe
+C:\Learnings\Bool\bin\Debug\net8.0\Bool.deps.json
+C:\Learnings\Bool\bin\Debug\net8.0\Bool.runtimeconfig.json
+C:\Learnings\Bool\bin\Debug\net8.0\Bool.dll
+C:\Learnings\Bool\bin\Debug\net8.0\Bool.pdb
+C:\Learnings\Bool\obj\Debug\net8.0\Bool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\Bool\obj\Debug\net8.0\Bool.AssemblyInfoInputs.cache
+C:\Learnings\Bool\obj\Debug\net8.0\Bool.AssemblyInfo.cs
+C:\Learnings\Bool\obj\Debug\net8.0\Bool.csproj.CoreCompileInputs.cache
+C:\Learnings\Bool\obj\Debug\net8.0\Bool.dll
+C:\Learnings\Bool\obj\Debug\net8.0\refint\Bool.dll
+C:\Learnings\Bool\obj\Debug\net8.0\Bool.pdb
+C:\Learnings\Bool\obj\Debug\net8.0\Bool.genruntimeconfig.cache
+C:\Learnings\Bool\obj\Debug\net8.0\ref\Bool.dll

@@ -1,0 +1,14 @@
+C:\Learnings\dotNet\ConsoleIO\bin\Debug\net8.0\ConsoleIO.exe
+C:\Learnings\dotNet\ConsoleIO\bin\Debug\net8.0\ConsoleIO.deps.json
+C:\Learnings\dotNet\ConsoleIO\bin\Debug\net8.0\ConsoleIO.runtimeconfig.json
+C:\Learnings\dotNet\ConsoleIO\bin\Debug\net8.0\ConsoleIO.dll
+C:\Learnings\dotNet\ConsoleIO\bin\Debug\net8.0\ConsoleIO.pdb
+C:\Learnings\dotNet\ConsoleIO\obj\Debug\net8.0\ConsoleIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\dotNet\ConsoleIO\obj\Debug\net8.0\ConsoleIO.AssemblyInfoInputs.cache
+C:\Learnings\dotNet\ConsoleIO\obj\Debug\net8.0\ConsoleIO.AssemblyInfo.cs
+C:\Learnings\dotNet\ConsoleIO\obj\Debug\net8.0\ConsoleIO.csproj.CoreCompileInputs.cache
+C:\Learnings\dotNet\ConsoleIO\obj\Debug\net8.0\ConsoleIO.dll
+C:\Learnings\dotNet\ConsoleIO\obj\Debug\net8.0\refint\ConsoleIO.dll
+C:\Learnings\dotNet\ConsoleIO\obj\Debug\net8.0\ConsoleIO.pdb
+C:\Learnings\dotNet\ConsoleIO\obj\Debug\net8.0\ConsoleIO.genruntimeconfig.cache
+C:\Learnings\dotNet\ConsoleIO\obj\Debug\net8.0\ref\ConsoleIO.dll
